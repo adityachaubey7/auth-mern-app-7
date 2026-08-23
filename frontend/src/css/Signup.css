@@ -1,0 +1,55 @@
+.container {
+    width: 350px;
+    margin: 80px auto;
+  }
+  
+  form {
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  form h1 {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  
+  form div {
+    margin-bottom: 15px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form span {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  form a {
+    color: blue;
+    text-decoration: none;
+    margin-left: 5px;
+  }

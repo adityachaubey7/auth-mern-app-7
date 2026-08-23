@@ -1,0 +1,23 @@
+:root {
+  .logo{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+  }}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: white;
+  color: black;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
