@@ -22,7 +22,7 @@ const navigate=useNavigate()
     }
     const fetchProducts=async()=>{
         try{
-            const url='http://localhost:8080/products';
+            const url='https://auth-mern-app-7-api.vercel.app/products';
             const headers={
                 headers:{
                     'Authorization':localStorage.getItem('token')
